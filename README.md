@@ -2,6 +2,8 @@
 
 This a simple Task Manager Flutter App.
 
+<a href="https://www.buymeacoffee.com/gabmwendwa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ## Packages
 - cupertino_icons
 - flutter_bloc
@@ -47,6 +49,9 @@ This a simple Task Manager Flutter App.
 
 ## Screenshots
 The 'Screenshots' folder contains more screenshots.
+
+<a href="https://www.buymeacoffee.com/gabmwendwa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ### Andoid
 | ![Screenshot 1](/Screenshots/android/1.png "Screenshot 1") | ![Screenshot 2](/Screenshots/android/5.png "Screenshot 2") | ![Screenshot 3](/Screenshots/android/6.png "Screenshot 3") |
 | :--------: | :-------: | :-------: |
