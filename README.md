@@ -49,6 +49,7 @@ This a simple Task Manager Flutter App.
 The 'Screenshots' folder contains more screenshots.
 ### Andoid
 | ![Screenshot 1](/Screenshots/android/1.png "Screenshot 1") | ![Screenshot 2](/Screenshots/android/5.png "Screenshot 2") | ![Screenshot 3](/Screenshots/android/6.png "Screenshot 3") |
+| :--------: | :-------: | :-------: |
 | ![Screenshot 4](/Screenshots/android/7.png "Screenshot 4") | ![Screenshot 5](/Screenshots/android/8.png "Screenshot 5") | ![Screenshot 6](/Screenshots/android/28.png "Screenshot 6") |
 
 ### iOS
